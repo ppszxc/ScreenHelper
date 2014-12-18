@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="open_btn_press">#FFBC54</color>
+    <color name="open_btn_release">#F8AA33</color>
+</resources>
